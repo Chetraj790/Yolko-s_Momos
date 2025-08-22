@@ -144,6 +144,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Yolko’s – Egg Momos & Fusion Dishes</title>
 
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meri Website</title>
+
   <!-- ✅ Google Verification Code -->
-  <meta name="google-site-verification" content="google-site-verification: googlec8f61693783ad01d.html" />
-xxxxxxxx
+  <meta name="google-site-verification" content="fYuVTYOaOynbUyGWNRbRQeJqo-pi_yRvvg8wr88IKjU" />
+</head>
+<body>
+  <h1>Welcome to my Website!</h1>
+</body>
+</html>
