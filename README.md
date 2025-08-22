@@ -139,3 +139,11 @@
 
 </body>
 </html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yolko’s – Egg Momos & Fusion Dishes</title>
+
+  <!-- ✅ Google Verification Code -->
+  <meta name="google-site-verification" content="google-site-verification: googlec8f61693783ad01d.html" />
+xxxxxxxx
